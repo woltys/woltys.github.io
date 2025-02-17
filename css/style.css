@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Rage';
+  src: url('fonts/roadrage.woff2') format('woff2'), 
+       url('fonts/roadrage.woff') format('woff'),
+       url('fonts/roadrage.ttf') format('ttf')
+}
+
+body { 
+	font-family: Rage, sans-serif;
+}
