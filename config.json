@@ -7,7 +7,7 @@
       "mainText": "{username} {amount}{currency}",
       "mainFontColor": "purple-synth",
       "mainFontStyle": "Outward",
-      "subFontstyle": "Pacifico",
+      "subFontstyle": "Rage",
       "subFontGlow": "glow",
       "addClip": "defaultClip"
     },
