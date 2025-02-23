@@ -3,8 +3,8 @@
     "1": {
       "backgroundVideo": "videos/donation-bg.webm",
       "iconVideo": "videos/donation-icon.webm",
-      "mainText": "Донат от {username}",
-      "subText": "{username} {amount}{currency}!",
+      "subText": "Донат от",
+      "mainText": "{username} {amount}{currency}",
       "mainFontColor": "purple-synth",
       "mainFontStyle": "Outward",
       "subFontstyle": "Pacifico",
@@ -14,8 +14,8 @@
     "4": {
       "backgroundVideo": "videos/sub-bg.webm",
       "iconVideo": "videos/sub-icon.webm",
-      "mainText": "Подписка от",
-      "subText": "{username}",
+      "subText": "Подписка от",
+      "mainText": "{username}",
       "mainFontColor": "sunset-synth",
       "mainFontStyle": "Commando",
       "subFontstyle": "Rage",
@@ -25,8 +25,8 @@
     "6": {
       "backgroundVideo": "videos/follow-bg.webm",
       "iconVideo": "videos/follow-icon.webm",
-      "mainText": "Фоллоу от",
-      "subText": "{username}",
+      "subText": "Фоллоу от",
+      "mainText": "{username}",
       "mainFontColor": "teal-synth",
       "mainFontStyle": "Commando",
       "subFontstyle": "Rage",
