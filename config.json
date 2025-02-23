@@ -9,7 +9,7 @@
       "mainFontStyle": "Teko",
       "subFontstyle": "Pacifico",
       "subFontGlow": "glow",
-      "addClip": "add-clip"
+      "addClip": "defaultClip"
     },
     "4": {
       "backgroundVideo": "videos/sub-bg.webm",
@@ -20,7 +20,7 @@
       "mainFontStyle": "Teko",
       "subFontstyle": "Rage",
       "subFontGlow": "no-glow",
-      "addClip": "add-clip"
+      "addClip": "tekClip"
     },
     "6": {
       "backgroundVideo": "videos/follow-bg.webm",
@@ -31,7 +31,7 @@
       "mainFontStyle": "Teko",
       "subFontstyle": "Rage",
       "subFontGlow": "glow",
-      "addClip": "add-clip"
+      "addClip": "orbClip"
     }
   }
 }
