@@ -1,32 +1,37 @@
 {
   "alerts": {
     "1": {
-      "background": "path/to/donation-bg.webm",
-      "icon": "path/to/donation-icon.webm"
+      "backgroundVideo": "videos/donation-bg.webm",
+      "iconVideo": "videos/donation-icon.webm",
+      "mainText": "Донат от {username}",
+      "subText": "Спасибо за {amount} {currency}!",
+      "mainFontColor": "purple-synth",
+      "mainFontStyle": "bold",
+      "subFontstyle": "italic",
+      "subFontGlow": "glow",
+      "addClip": "defaultClip"
     },
     "4": {
-      "background": "path/to/sub-bg.webm",
-      "icon": "path/to/sub-icon.webm"
+      "backgroundVideo": "videos/sub-bg.webm",
+      "iconVideo": "videos/sub-icon.webm",
+      "mainText": "Новый саб от {username}",
+      "subText": "Спасибо за поддержку!",
+      "mainFontColor": "sunset-synth",
+      "mainFontStyle": "normal",
+      "subFontstyle": "normal",
+      "subFontGlow": "no-glow",
+      "addClip": "tekClip"
     },
     "6": {
-      "background": "path/to/follow-bg.webm",
-      "icon": "path/to/follow-icon.webm"
-    },
-    "11": {
-      "background": "path/to/bits-bg.webm",
-      "icon": "path/to/bits-icon.webm"
-    },
-    "13": {
-      "background": "path/to/gift-sub-bg.webm",
-      "icon": "path/to/gift-sub-icon.webm"
-    },
-    "17": {
-      "background": "path/to/raid-bg.webm",
-      "icon": "path/to/raid-icon.webm"
-    },
-    "18": {
-      "background": "path/to/host-bg.webm",
-      "icon": "path/to/host-icon.webm"
+      "backgroundVideo": "videos/follow-bg.webm",
+      "iconVideo": "videos/follow-icon.webm",
+      "mainText": "Новый фоллоу от {username}",
+      "subText": "Добро пожаловать!",
+      "mainFontColor": "teal-synth",
+      "mainFontStyle": "bold",
+      "subFontstyle": "italic",
+      "subFontGlow": "glow",
+      "addClip": "orbClip"
     }
   }
 }
