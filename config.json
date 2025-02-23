@@ -17,7 +17,7 @@
       "subText": "Подписка от",
       "mainText": "{username}",
       "mainFontColor": "sunset-synth",
-      "mainFontStyle": "Commando",
+      "mainFontStyle": "Outward",
       "subFontstyle": "Rage",
       "subFontGlow": "no-glow",
       "addClip": "tekClip"
@@ -28,7 +28,7 @@
       "subText": "Фоллоу от",
       "mainText": "{username}",
       "mainFontColor": "teal-synth",
-      "mainFontStyle": "Commando",
+      "mainFontStyle": "Outward",
       "subFontstyle": "Rage",
       "subFontGlow": "glow",
       "addClip": "orbClip"
