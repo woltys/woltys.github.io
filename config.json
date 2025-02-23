@@ -6,10 +6,10 @@
       "mainText": "Донат от {username}",
       "subText": "Спасибо за {amount} {currency}!",
       "mainFontColor": "purple-synth",
-      "mainFontStyle": "bold",
-      "subFontstyle": "italic",
+      "mainFontStyle": "Teko",
+      "subFontstyle": "Pacifico",
       "subFontGlow": "glow",
-      "addClip": "defaultClip"
+      "addClip": "add-clip"
     },
     "4": {
       "backgroundVideo": "videos/sub-bg.webm",
@@ -17,10 +17,10 @@
       "mainText": "Новый саб от {username}",
       "subText": "Спасибо за поддержку!",
       "mainFontColor": "sunset-synth",
-      "mainFontStyle": "normal",
-      "subFontstyle": "normal",
+      "mainFontStyle": "Teko",
+      "subFontstyle": "Rage",
       "subFontGlow": "no-glow",
-      "addClip": "tekClip"
+      "addClip": "add-clip"
     },
     "6": {
       "backgroundVideo": "videos/follow-bg.webm",
@@ -28,10 +28,10 @@
       "mainText": "Новый фоллоу от {username}",
       "subText": "Добро пожаловать!",
       "mainFontColor": "teal-synth",
-      "mainFontStyle": "bold",
-      "subFontstyle": "italic",
+      "mainFontStyle": "Teko",
+      "subFontstyle": "Rage",
       "subFontGlow": "glow",
-      "addClip": "orbClip"
+      "addClip": "add-clip"
     }
   }
 }
