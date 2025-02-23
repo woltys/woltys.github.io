@@ -6,7 +6,7 @@
       "mainText": "Донат от {username}",
       "subText": "Спасибо за {amount} {currency}!",
       "mainFontColor": "purple-synth",
-      "mainFontStyle": "Teko",
+      "mainFontStyle": "Outward",
       "subFontstyle": "Pacifico",
       "subFontGlow": "glow",
       "addClip": "defaultClip"
@@ -17,7 +17,7 @@
       "mainText": "Новый саб от {username}",
       "subText": "Спасибо за поддержку!",
       "mainFontColor": "sunset-synth",
-      "mainFontStyle": "Teko",
+      "mainFontStyle": "Commando",
       "subFontstyle": "Rage",
       "subFontGlow": "no-glow",
       "addClip": "tekClip"
@@ -28,7 +28,7 @@
       "mainText": "Новый фоллоу от {username}",
       "subText": "Добро пожаловать!",
       "mainFontColor": "teal-synth",
-      "mainFontStyle": "Teko",
+      "mainFontStyle": "Commando",
       "subFontstyle": "Rage",
       "subFontGlow": "glow",
       "addClip": "orbClip"
